@@ -1,0 +1,33 @@
+// Common
+Open Hardware Complete - OK
+Open Hardware Symbol - OK
+Attention with text
+Recycle - Arrow - Filled - OK
+Recycle - Arrow - Outline - OK
+Attention IEC348
+ESD with text
+ESD
+Earth Ground IEC5017
+Frame Ground
+High Voltage IEC60417-1-5036
+Noiseless Earth IEC5018	
+Pb Free with text
+Pb Free
+Protective Earth IEC5019
+
+
+// Certifications
+Canadian Standards Association - Logo - OK
+European Conformity - Logo - OK
+Instituto Nacional de Metrologia, Qualidade e Tecnologia - Logo - OK
+Underwriters Laboratories - cULus - OK
+Underwriters Laboratories - Logo - OK
+Underwriters Laboratories - Recognized Component Mark - OK
+International Electrotechnical Commission - Logo - OK
+Institute of Electrical and Electronics Engineers - Logo - OK
+Wireless Fidelity - Logo - OK
+FCC
+RoHS + Tick
+RCM Mark
+C-TCK
+WEEE
