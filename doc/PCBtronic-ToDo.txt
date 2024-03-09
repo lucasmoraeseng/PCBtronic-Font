@@ -14,6 +14,7 @@ Noiseless Earth IEC5018
 Pb Free with text
 Pb Free
 Protective Earth IEC5019
+Trash Can 
 
 
 // Certifications
@@ -31,3 +32,5 @@ RoHS + Tick
 RCM Mark
 C-TCK
 WEEE
+ETL - cETLus
+TUV Rheinland - cTUVus
