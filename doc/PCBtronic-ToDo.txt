@@ -4,9 +4,9 @@ Open Hardware Symbol - OK
 Attention with text
 Recycle - Arrow - Filled - OK
 Recycle - Arrow - Outline - OK
-Attention IEC348
+Attention IEC348 - OK
 ESD with text
-ESD
+ESD - OK
 Earth Ground IEC5017
 Frame Ground
 High Voltage IEC60417-1-5036
@@ -27,6 +27,7 @@ Underwriters Laboratories - Recognized Component Mark - OK
 International Electrotechnical Commission - Logo - OK
 Institute of Electrical and Electronics Engineers - Logo - OK
 Wireless Fidelity - Logo - OK
+Wireless Fidelity - Simple - OK
 FCC
 RoHS + Tick
 RCM Mark
